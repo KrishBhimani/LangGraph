@@ -20,3 +20,7 @@ langchain_groq
 fastapi
 langserve
 langgraph
+langgraph-cli[inmem]
+langchain-core
+
+# langgraph-cli[inmem]
